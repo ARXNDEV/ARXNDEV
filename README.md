@@ -1,134 +1,146 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=250&section=header&text=Arun%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=25" width="100%" alt="Header Banner" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ea5e9&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Training+Machine+Learning+Models;Breaking+the+Frontend+%26+Backend;Always+Learning+New+Technologies" alt="Typing SVG" />
-  </a>
-</div>
+<!-- CYBERPUNK BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,70:0a0a2e,100:000000&height=220&section=header&text=ARUN%20KUMAR&fontSize=75&fontColor=00fff9&animation=fadeIn&stroke=ff00ff&strokeWidth=2.5&desc=FULL%20STACK%20%7C%20AI%20%2F%20ML%20ENGINEER&descColor=ff00ff&descSize=22&descAlignY=78" />
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=1000&color=00FFF9&center=true&vCenter=true&width=650&lines=%3E+Initializing+arxndev.exe+...+%5BOK%5D;%3E+Full+Stack+%2B+AI%2FML+Engineer+online;%3E+Building+intelligent+systems%2C+one+commit;%3E+printf(%22Hello%2C+World%22)%3B+%2F%2F+always;%3E+Ship+fast.+Break+things.+Fix+faster." alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <a href="mailto:ASHUTHECOOLESTBOY096@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335&border=ea4335" alt="Email" />
-  </a>
-  <a href="https://instagram.com/WHY.ARXN">
-    <img src="https://img.shields.io/badge/Instagram-Follow_Me-0f172a?style=for-the-badge&logo=instagram&logoColor=E1306C&border=E1306C" alt="Instagram" />
-  </a>
-  <a href="https://github.com/ARXNDEV">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-0f172a?style=for-the-badge&logo=github&logoColor=white&border=ffffff" alt="GitHub" />
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=arxndev&style=for-the-badge&color=ff00ff&label=NEURAL+PINGS&labelColor=0d0221)
+
 </div>
 
-<br/>
-
 ---
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🌌 About Me</h3>
-      <div align="left">
-        <ul>
-          <li>🔭 <b>Currently Building:</b> Advanced full-stack applications with AI integrations.</li>
-          <li>🌱 <b>Currently Learning:</b> Deep Learning architectures & modern web frameworks.</li>
-          <li>🎯 <b>Current Focus:</b> Designing scalable microservices & optimizing user experiences.</li>
-          <li>👯 <b>Collaboration:</b> Open to open-source contributions and creative web projects.</li>
-          <li>⚡ <b>Fun Fact:</b> I can debug a complex issue for hours, only to realize I missed a semicolon!</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">🎧 Now Playing</h3>
-      <div align="center">
-        <!-- Replace this URL with your actual Spotify Now Playing Vercel deployment if you have one -->
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novathem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novathem&show_offline=true&background_color=0f172a&interchange=false&bar_color=0ea5e9&bar_color_cover=false" alt="Spotify Now Playing" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,vite,tailwind,nodejs,php,python,mysql,mongodb,pytorch,git,github,gcp,vercel,netlify&perline=9&theme=dark" alt="Tech Stack Icons" />
-  </a>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║            ⚡  SYSTEM PROFILE — ARXNDEV  ⚡                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  [USER]      Arun Kumar                                      ║
+║  [ALIAS]     arxndev                                         ║
+║  [ROLE]      Full Stack Developer & AI/ML Engineer           ║
+║  [LOCATION]  India  🇮🇳                                       ║
+║  [STATUS]    ▓▓▓▓▓▓▓▓▓▓ 100% — Always in Build Mode         ║
+║  [UPTIME]    24/7 Problem Solving Mode                       ║
+║  [MISSION]   Code. Create. Conquer.                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<br/>
+---
+
+## 🧠 About Me
+
+```python
+class arxndev:
+    name       = "Arun Kumar"
+    role       = ["Full Stack Developer", "AI/ML Engineer"]
+    location   = "India 🇮🇳"
+    languages  = ["Python", "JavaScript", "TypeScript"]
+    currently  = "Building intelligent full-stack systems"
+    philosophy = "Ship fast. Break things. Fix faster."
+    available  = True  # Open to collabs & opportunities
+```
 
 ---
 
-<h3 align="center">📈 GitHub Analytics</h3>
+## ⚡ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/ARXNDEV">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARXNDEV&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0f172a&border_color=0ea5e9&border_radius=10" width="48%">
-  </a>
-  <a href="https://github.com/ARXNDEV">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARXNDEV&theme=tokyonight&hide_border=false&title_color=0ea5e9&text_color=94a3b8&icon_color=0ea5e9&sideNums=0ea5e9&sideLabels=94a3b8&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&currStreakNum=0ea5e9&bg_color=0f172a&border_color=0ea5e9&border_radius=10" width="48%">
-  </a>
 
-  <br><br>
+**[ LANGUAGES ]**
 
-  <a href="https://github.com/ARXNDEV">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARXNDEV&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact&title_color=0ea5e9&text_color=94a3b8&bg_color=0f172a&border_color=0ea5e9&border_radius=10" width="48%">
-  </a>
-  <a href="https://github.com/ARXNDEV">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&title_color=0ea5e9&text_color=94a3b8&bg_color=0f172a&border_color=0ea5e9&border_radius=10" width="48%">
-  </a>
+![Python](https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=00fff9)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=ff00ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=00fff9)
+
+**[ FRONTEND ]**
+
+![React](https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=00fff9)
+![HTML5](https://img.shields.io/badge/HTML5-0d0221?style=for-the-badge&logo=html5&logoColor=ff00ff)
+![CSS3](https://img.shields.io/badge/CSS3-0d0221?style=for-the-badge&logo=css3&logoColor=00fff9)
+
+**[ BACKEND ]**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=00fff9)
+![Node.js](https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=node.js&logoColor=ff00ff)
+![Express](https://img.shields.io/badge/Express-0d0221?style=for-the-badge&logo=express&logoColor=00fff9)
+![NestJS](https://img.shields.io/badge/NestJS-0d0221?style=for-the-badge&logo=nestjs&logoColor=ff00ff)
+
+**[ DATABASES ]**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0221?style=for-the-badge&logo=mongodb&logoColor=00fff9)
+![MySQL](https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=ff00ff)
+![Prisma](https://img.shields.io/badge/Prisma-0d0221?style=for-the-badge&logo=prisma&logoColor=00fff9)
+
+**[ AI / ML ]**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0221?style=for-the-badge&logo=scikit-learn&logoColor=ff00ff)
+![NumPy](https://img.shields.io/badge/NumPy-0d0221?style=for-the-badge&logo=numpy&logoColor=00fff9)
+![Pandas](https://img.shields.io/badge/Pandas-0d0221?style=for-the-badge&logo=pandas&logoColor=ff00ff)
+
 </div>
 
-<br/>
-
 ---
 
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
+## 📊 System Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARXNDEV/ARXNDEV/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARXNDEV/ARXNDEV/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ARXNDEV/ARXNDEV/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
-  <i>(Note: To see this animation, set up the Snake GitHub Action in your profile repository!)</i>
+
+<img src="https://github-readme-stats.vercel.app/api?username=arxndev&show_icons=true&theme=radical&border_color=ff00ff&bg_color=0d0221&title_color=00fff9&icon_color=ff00ff&text_color=ffffff&ring_color=ff00ff" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arxndev&layout=compact&theme=radical&border_color=ff00ff&bg_color=0d0221&title_color=00fff9&text_color=ffffff" height="170" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=arxndev&theme=radical&border=ff00ff&background=0d0221&ring=ff00ff&fire=00fff9&currStreakLabel=00fff9&sideLabels=ff00ff&dates=ffffff" />
+
 </div>
 
-<br/>
-
 ---
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <h3>⚡ Recent Activity</h3>
-      <!-- Placeholder for a GitHub Action that fetches latest activity (e.g., recent commits/stars) -->
-      <i>(Set up a GitHub Action like 'github-activity-readme' to automatically display your latest commits and PRs here.)</i>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <h3>📰 Latest Blog Posts</h3>
-      <!-- Placeholder for an RSS feed GitHub Action -->
-      <i>(If you write on Dev.to, Medium, or Hashnode, use an RSS GitHub Action to automatically list your latest articles here.)</i>
-    </td>
-  </tr>
-</table>
-
----
+## 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/ARXNDEV">
-    <img src="https://komarev.com/ghpvc/?username=ARXNDEV&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=arxndev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
 </div>
 
+---
+
+## 🌐 Contribution Grid
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arxndev&bg_color=0d0221&color=00fff9&line=ff00ff&point=ffffff&area=true&area_color=ff00ff&hide_border=false&border_color=ff00ff" />
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00fff9&labelColor=0d0221)](https://www.linkedin.com/in/arxnydv/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d0221?style=for-the-badge&logo=instagram&logoColor=ff00ff&labelColor=0d0221)](https://instagram.com/why.arxn)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0221?style=for-the-badge&logo=gmail&logoColor=00fff9&labelColor=0d0221)](mailto:arun.kumar@adypu.edu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0221?style=for-the-badge&logo=github&logoColor=ff00ff&labelColor=0d0221)](https://github.com/arxndev)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,70:0a0a2e,100:000000&height=120&section=footer&animation=fadeIn&stroke=00fff9&strokeWidth=1.5" />
+
+*"The best way to predict the future is to build it."*
+
 </div>
