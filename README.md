@@ -139,11 +139,13 @@ print(me.greet())
 
 ## 📡 CONTRIBUTION GRAPH
 
+## 📡 CONTRIBUTION GRAPH
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arxndev&bg_color=03001e&color=ec38bc&line=7303c0&point=fdeff9&area=true&hide_border=false&border_color=7303c0&radius=8" width="95%"/>
-
+  <img src="https://raw.githubusercontent.com/ARXNDEV/ARXNDEV/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%">
 </div>
+
+---
 
 <br/>
 
