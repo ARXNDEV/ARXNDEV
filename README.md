@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,25:7303c0,75:ec38bc,100:fdeff9&height=280&section=header&text=ARUN%20KUMAR&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Full%20Stack%20•%20AI%2FML%20Engineer&descAlign=50&descAlignY=62&descColor=fdeff9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03001e,25:7303c0,75:ec38bc,100:fdeff9&height=300&section=header&text=ARUN%20KUMAR&fontSize=85&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20•%20AI%2FML%20•%20Security%20Engineering&descAlign=50&descAlignY=60&descColor=fdeff9&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EC38BC&center=true&vCenter=true&width=750&height=50&lines=SYSTEM%20BOOT...%20ARXNDEV%20ONLINE;Full%20Stack%20%2B%20AI%2FML%20Engineer;Building%20an%20RBI%20engine%20at%20Accops%20Systems;Shipping%20MCP%20servers%2C%20RAG%20pipelines%2C%20AI%20agents;B.E.%20AI%2FML%20at%20Newton%20School%20of%20Technology%20%2728" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EC38BC&center=true&vCenter=true&width=780&height=50&lines=SYSTEM+BOOT...+ARXNDEV+ONLINE;Full+Stack+%2B+AI%2FML+%2B+Security+Engineer;Building+a+Remote+Browser+Isolation+engine+%40+Accops;Shipping+MCP+servers%2C+RAG+pipelines%2C+AI+agents;I+turn+hard+infra+problems+into+shipped+products" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -14,42 +14,58 @@
 &nbsp;
 <img src="https://img.shields.io/github/stars/arxndev?style=for-the-badge&color=7303c0&labelColor=03001e&label=STARS" />
 
+<br/>
+
+<a href="https://www.linkedin.com/in/arxnydv/"><img src="https://img.shields.io/badge/LinkedIn-03001e?style=for-the-badge&logo=linkedin&logoColor=ec38bc" /></a>
+&nbsp;
+<a href="mailto:arun.kumar@adypu.edu.in"><img src="https://img.shields.io/badge/Email-03001e?style=for-the-badge&logo=gmail&logoColor=ec38bc" /></a>
+&nbsp;
+<a href="https://instagram.com/why.arxn"><img src="https://img.shields.io/badge/Instagram-03001e?style=for-the-badge&logo=instagram&logoColor=7303c0" /></a>
+
 </div>
 
 <br/>
 
 ## 🧠 whoami
 
-\`\`\`python
+```python
 class Arun:
     def __init__(self):
-        self.role      = "Full Stack + AI/ML Engineer"
+        self.role      = "Full Stack + AI/ML + Security Engineer"
         self.location  = "Pune, India 🇮🇳"
-        self.education = "B.E. AI/ML @ Newton School of Technology, ADYPU (2028)"
+        self.education = "B.E. AI/ML @ Newton School of Technology, ADYPU ('28)"
         self.currently = "Interning @ Accops Systems — building an RBI product from scratch"
         self.stack     = ["Python", "TypeScript", "Go", "React", "FastAPI", "Docker"]
+        self.focus     = ["Browser Isolation", "RAG systems", "MCP servers", "AI agents"]
+
+    def philosophy(self):
+        return "Understand the system down to the packet, then ship."
 
     def __repr__(self):
         return "Arun Kumar — builder of secure, AI-powered systems"
 
-me = Arun()
-print(me)
-\`\`\`
+print(Arun())
+# >>> Arun Kumar — builder of secure, AI-powered systems
+```
 
 <br/>
 
 ## ⚙️ currently building
 
-\`\`\`text
-┌────────────────────────────────────────────────────────────────────┐
-│  PROJECT     Remote Browser Isolation (RBI) — new product line      │
-│  COMPANY     Accops Systems, Pune                                   │
-│  PIPELINE    PAC file → Go proxy (TLS termination + cert cloning)   │
-│              → URL filtering (Safe Browsing + ClamAV)               │
-│              → Dockerized Chromium → pixel/DOM stream to client     │
-│  STATUS      ████████████░░░░░░░░  in progress                      │
-└────────────────────────────────────────────────────────────────────┘
-\`\`\`
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  PROJECT     Remote Browser Isolation (RBI) — new product line         │
+│  COMPANY     Accops Systems, Pune                                      │
+│                                                                        │
+│  PIPELINE    PAC file  ──▶  Go proxy (TLS termination + cert cloning)  │
+│                        ──▶  URL filtering (Safe Browsing + ClamAV)     │
+│                        ──▶  Dockerized Chromium (per-session)          │
+│                        ──▶  pixel / DOM stream over WebRTC to client   │
+│                                                                        │
+│  HARDENING   dual egress lockdown (nftables + Gatesentry), kiosk mode  │
+│  STATUS      ████████████░░░░░░░░   in progress                        │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
@@ -59,7 +75,7 @@ print(me)
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,go,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,go,html,css&theme=dark" />
 
 **Frontend**
 
@@ -76,10 +92,15 @@ print(me)
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white" />
 
-**DevOps & Tools**
+**DevOps & Infra**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,bash,vscode&theme=dark" />
 
 </div>
 
@@ -89,12 +110,12 @@ print(me)
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| 🪟 **Glass Fence** | Brutalist, white-labeled fork of n.eko for browser-isolation demos — black-and-white, CrowdStrike-grade enterprise UI. |
-| 📦 **container-mcp** | `@arxndev/container-mcp` — an MCP server exposing 30+ tools to manage Linux containers on Apple Silicon, built for Claude Desktop & Cursor. |
-| 🔍 **Highwatch RAG** | Production RAG system over Google Drive docs — FastAPI, FAISS, SentenceTransformers, Groq (Llama 3), deployed on Render + Vercel. |
-| 🍽️ **CalorAI** | React Native + Expo nutrition app with a swipeable taste-profile UI and a dark glassmorphism theme. |
+| Project | Stack | What it does |
+|---|---|---|
+| 🪟 **Glass Fence** | n.eko · WebRTC · nftables · coturn | Brutalist, white-labeled browser-isolation platform — per-session containers, black-and-white enterprise UI. |
+| 📦 **container-mcp** | MCP · Node · Apple Silicon | `@arxndev/container-mcp` — MCP server exposing 30+ tools to manage Linux containers on macOS, built for Claude Desktop & Cursor. |
+| 🔍 **Highwatch RAG** | FastAPI · FAISS · Groq (Llama 3) | Production RAG over Google Drive docs — deployed on Render + Vercel. |
+| 🍽️ **CalorAI** | React Native · Expo | Nutrition app with a swipeable taste-profile UI and dark glassmorphism theme. |
 
 </div>
 
@@ -151,12 +172,12 @@ print(me)
 
 <br/><br/>
 
-\`\`\`
+```
 ╔══════════════════════════════════════════════════════════════╗
-║   "The best way to predict the future is to build it."       ║
-║                                          — arxndev  ⚡        ║
+║   "The best way to predict the future is to build it."        ║
+║                                          — arxndev  ⚡         ║
 ╚══════════════════════════════════════════════════════════════╝
-\`\`\`
+```
 
 </div>
 
